@@ -1,0 +1,25 @@
+#pageContainer {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#mainHeading {
+  color: #333;
+}
+
+#nameInput {
+  padding: 8px;
+  margin: 10px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+#messageArea {
+  margin-top: 20px;
+  font-style: italic;
+}
